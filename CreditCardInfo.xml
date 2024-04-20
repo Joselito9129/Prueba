@@ -1,0 +1,33 @@
+<requestInfoCreditCard>
+    <requestSystem>
+        <code>101</code>
+        <name>TiendaConveniencia</name>
+        <location>Guatemala</location>
+    </requestSystem>
+    <clientRequest>
+        <identified>9343823</identified>
+        <name>Jose Navarro</name>
+        <address>Guatemala</address>
+        <email>josenavarro@gmail.com</email>
+        <phone>39688815</phone>
+        <cardInfo>
+            <company>MasterCard</company>
+            <number>878745457364</number>
+            <expirationDate>08/24</expirationDate>
+            <cvv>123</cvv>
+        </cardInfo>
+    </clientRequest>
+</requestInfoCreditCard>
+
+<responseInfoCreditCard>
+    <requestSystem>
+        <code>001</code>
+        <name>BancaDigital</name>
+        <location>Guatemala</location>
+    </requestSystem>
+    <result>
+        <code>200</code>
+        <status>Success</status>
+        <message>Transacción exitosa.</message>
+    </result>
+</responseInfoCreditCard>
